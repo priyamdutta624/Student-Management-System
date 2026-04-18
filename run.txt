@@ -1,0 +1,2 @@
+g++ -I include src/*.cpp -o build/sms
+./build/sms
